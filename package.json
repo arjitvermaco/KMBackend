@@ -1,0 +1,11 @@
+{
+    "name": "krishi-backofc-rest",
+    "version": "1.0.0",
+    "description": "A Rest Api Based on express to manage operations of a agricultre organizatio",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Arjit Verma",
+    "license": "ISC"
+}
